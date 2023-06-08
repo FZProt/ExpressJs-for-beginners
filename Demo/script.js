@@ -9,6 +9,8 @@ user = {
 user.addr = "Dhaka";
 user["id"] = 21;
 
+// before after math
+
 
 //add or modify
 user.addr = "Dhaka";
